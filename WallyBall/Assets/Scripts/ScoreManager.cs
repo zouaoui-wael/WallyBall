@@ -165,7 +165,7 @@ public class ScoreManager : MonoBehaviour {
         }
         else
         {
-            ScoreT.color = new Color32(255, 255, 255, 255);
+            ScoreT.color = new Color32(27, 1, 99, 255);
         }
     }
 

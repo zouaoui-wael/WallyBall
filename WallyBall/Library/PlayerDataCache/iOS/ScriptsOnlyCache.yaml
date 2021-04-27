@@ -660,4 +660,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/_Scenes/MainMenu.unity
   - Assets/_Scenes/MainScene.unity
-  playerPath: C:/Users/MSI/Desktop/ToutPourLeJeu/ios
+  playerPath: C:/Users/MSI/Documents/GitHub/WallyBall/ios

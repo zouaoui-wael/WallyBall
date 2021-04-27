@@ -9624,11 +9624,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ScoreManager_UpdateColor_m9F0200E5F567C3
 
 IL_003c:
 	{
-		// ScoreT.color = new Color32(255, 255, 255, 255);
+		// ScoreT.color = new Color32(27, 1, 99, 255);
 		Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030 * L_5 = __this->get_ScoreT_10();
 		Color32_t23ABC4AE0E0BDFD2E22EE1FA0DA3904FFE5F6E23  L_6;
 		memset((&L_6), 0, sizeof(L_6));
-		Color32__ctor_m1AEF46FBBBE4B522E6984D081A3D158198E10AA2((&L_6), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), (uint8_t)((int32_t)255), /*hidden argument*/NULL);
+		Color32__ctor_m1AEF46FBBBE4B522E6984D081A3D158198E10AA2((&L_6), (uint8_t)((int32_t)27), (uint8_t)1, (uint8_t)((int32_t)99), (uint8_t)((int32_t)255), /*hidden argument*/NULL);
 		Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  L_7 = Color32_op_Implicit_mA89CAD76E78975F51DF7374A67D18A5F6EF8DA61(L_6, /*hidden argument*/NULL);
 		NullCheck(L_5);
 		VirtActionInvoker1< Color_t119BCA590009762C7223FDD3AF9706653AC84ED2  >::Invoke(23 /* System.Void UnityEngine.UI.Graphic::set_color(UnityEngine.Color) */, L_5, L_7);
